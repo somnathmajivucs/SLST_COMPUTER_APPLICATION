@@ -1,0 +1,502 @@
+new model set 8 not repeating above 60mcq answer with explanation in details 60 must question strictly here
+
+Of course! Here’s **SLST Computer Application Model Set 8** — another completely **unique set of 60 MCQs**, fully explained, strictly non-repeating from Sets 1–7 above, and matching your syllabus module-wise.
+
+# SLST Computer Application – Model Set 8 (60 MCQs with Answers & Detailed Explanations)
+
+## Module 1: Computer Fundamentals (8 MCQs)
+
+**Q1.** The device that converts digital signals to analog for telephone lines is a:  
+A) Switch  
+B) Modem  
+C) Bridge  
+D) Hub  
+**Answer:** B) Modem  
+**Explanation:** Modem modulates and demodulates signals for data communication over analog lines.
+
+**Q2.** The binary code for the ASCII character ‘A’ is:  
+A) 01000001  
+B) 00110001  
+C) 01000000  
+D) 01100001  
+**Answer:** A) 01000001  
+**Explanation:** ‘A’ in ASCII decimal is 65; in binary: 01000001.
+
+**Q3.** Which of the following is NOT an output device?  
+A) Projector  
+B) Microphone  
+C) Plotter  
+D) Speaker  
+**Answer:** B) Microphone  
+**Explanation:** Microphones are input devices; others convert digital signals to output.
+
+**Q4.** The term "software suite" refers to:  
+A) A computer virus  
+B) A collection of related programs  
+C) A laptop  
+D) An operating system  
+**Answer:** B) A collection of related programs  
+**Explanation:** E.g., MS Office — Word, Excel, PowerPoint.
+
+**Q5.** In a computer, BIOS is stored in:  
+A) Hard disk  
+B) ROM  
+C) RAM  
+D) Cache  
+**Answer:** B) ROM  
+**Explanation:** BIOS is firmware, stored in non-volatile ROM.
+
+**Q6.** The “refresh rate” of a monitor measures:  
+A) Data storage speed  
+B) Number of image redraws per second  
+C) CPU speed  
+D) Internet speed  
+**Answer:** B) Number of image redraws per second  
+**Explanation:** Measured in Hz, it shows how often screen is updated per second.
+
+**Q7.** Which file extension is associated with Excel spreadsheets?  
+A) .docx  
+B) .xls/.xlsx  
+C) .ppt  
+D) .html  
+**Answer:** B) .xls/.xlsx  
+**Explanation:** XLS (Excel 2003 and earlier), XLSX (Excel 2007 and later).
+
+**Q8.** Which is the largest unit?  
+A) Kilobyte  
+B) Megabyte  
+C) Terabyte  
+D) Gigabyte  
+**Answer:** C) Terabyte  
+**Explanation:** 1 TB = 1024 GB; a much larger measure than MB or KB.
+
+## Module 2: Computer Arithmetic (7 MCQs)
+
+**Q9.** Decimal 51 is equal to hexadecimal:  
+A) 23  
+B) 33  
+C) 2F  
+D) 35  
+**Answer:** C) 2F  
+**Explanation:** 3 × 16 = 48, remainder 3; so 2F (2 × 16 + 15 = 47).
+
+**Q10.** Gray code for decimal 4 is:  
+A) 100  
+B) 110  
+C) 101  
+D) 111  
+**Answer:** B) 110  
+**Explanation:** 4 in binary: 100; Gray code: 110.
+
+**Q11.** The binary sum of 1110 + 0111 is:  
+A) 10001  
+B) 11101  
+C) 1101  
+D) 10101  
+**Answer:** A) 10101  
+**Explanation:** 14 + 7 = 21; in binary: 10101.
+
+**Q12.** Which code is NOT self-complementing?  
+A) Excess-3  
+B) 2421  
+C) 5211  
+D) Gray  
+**Answer:** D) Gray  
+**Explanation:** Gray is a reflective code, not self-complementing.
+
+**Q13.** 2’s complement of decimal -5 in 4 bits is:  
+A) 1010  
+B) 1011  
+C) 1101  
+D) 1011  
+**Answer:** B) 1011  
+**Explanation:** 5: 0101; invert: 1010; add 1: 1011.
+
+**Q14.** What is the result of right shifting 011101 by 2 positions?  
+A) 110111  
+B) 000111  
+C) 000111  
+D) 000111  
+**Answer:** B) 000111  
+**Explanation:** Shifting right by 2: drops two least significant digits.
+
+**Q15.** Floating point underflow occurs when:  
+A) Result is too large  
+B) Result is too small to be represented  
+C) Value is negative  
+D) Dividing by zero  
+**Answer:** B) Result is too small to be represented  
+**Explanation:** Underflow: results closer to zero than allowed by representation.
+
+## Module 3: Digital Logic Fundamentals (8 MCQs)
+
+**Q16.** The output of an AND gate with inputs 1, 0, 1 is:  
+A) 1  
+B) 0  
+C) 2  
+D) Undefined  
+**Answer:** B) 0  
+**Explanation:** AND outputs 1 only if all inputs are 1.
+
+**Q17.** The primary use of flip-flops is in:  
+A) Arithmetic  
+B) Data storage  
+C) Data transmission  
+D) Power backup  
+**Answer:** B) Data storage  
+**Explanation:** Flip-flops store one bit each; combined for registers.
+
+**Q18.** Which logic gate is called an “inverter”?  
+A) AND  
+B) OR  
+C) NOT  
+D) NAND  
+**Answer:** C) NOT  
+**Explanation:** NOT gate outputs inverse of input.
+
+**Q19.** Which circuit can compare two binary numbers?  
+A) Encoder  
+B) Comparator  
+C) Decoder  
+D) Register  
+**Answer:** B) Comparator  
+**Explanation:** Comparators check for equality/inequality between numbers.
+
+**Q20.** Priority encoder converts:  
+A) Many inputs to many outputs  
+B) Multiple inputs into binary code, resolving highest priority only  
+C) Binary to decimal  
+D) Analog to digital  
+**Answer:** B) Multiple inputs into binary code, resolving highest priority only  
+**Explanation:** Only the highest-priority active input is encoded.
+
+**Q21.** 4-to-16 decoder requires how many select lines?  
+A) 2  
+B) 3  
+C) 4  
+D) 16  
+**Answer:** C) 4  
+**Explanation:** 2⁴ = 16; so 4 inputs/lines.
+
+**Q22.** Which sequential circuit is used for serial-to-parallel conversion?  
+A) Counter  
+B) Shift register  
+C) Decoder  
+D) Encoder  
+**Answer:** B) Shift register  
+**Explanation:** Shift registers can convert data between serial and parallel forms.
+
+**Q23.** One application of a multiplexer is:  
+A) Arithmetic operations  
+B) Channel selection  
+C) Error checking  
+D) Data encryption  
+**Answer:** B) Channel selection  
+**Explanation:** Multiplexers select one line among many for transmission.
+
+## Module 4: Operating System Concepts (7 MCQs)
+
+**Q24.** Which of these is NOT a page replacement algorithm?  
+A) FIFO  
+B) LRU  
+C) Optimal  
+D) Round Robin  
+**Answer:** D) Round Robin  
+**Explanation:** Round Robin is for process scheduling, not page replacement.
+
+**Q25.** Buffering helps in:  
+A) Error correction  
+B) Synchronizing data transfer between devices with different speeds  
+C) Data storage  
+D) Interrupt handling  
+**Answer:** B) Synchronizing data transfer between devices with different speeds  
+**Explanation:** Buffer temporarily holds data while transferring between devices/speeds.
+
+**Q26.** Which scheduling algorithm can cause starvation?  
+A) FCFS  
+B) SJF  
+C) Round Robin  
+D) FIFO  
+**Answer:** B) SJF  
+**Explanation:** Shortest Job First can cause long jobs to wait indefinitely (“starvation”).
+
+**Q27.** Which OS is an example of open source?  
+A) Windows  
+B) macOS  
+C) Linux  
+D) MS-DOS  
+**Answer:** C) Linux  
+**Explanation:** Linux is open source; anyone can see and modify the source code.
+
+**Q28.** The state in which a process is ready to execute but waiting for CPU is:  
+A) Running  
+B) Waiting  
+C) Ready  
+D) Terminated  
+**Answer:** C) Ready  
+**Explanation:** In ready state, process is queued for CPU time.
+
+**Q29.** Which is NOT a component of process management?  
+A) Process scheduling  
+B) I/O buffering  
+C) Deadlock handling  
+D) Thread synchronization  
+**Answer:** B) I/O buffering  
+**Explanation:** I/O buffering is a part of memory/I-O management.
+
+**Q30.** The process of starting a computer and loading the operating system is called:  
+A) Spooling  
+B) Booting  
+C) Paging  
+D) Compiling  
+**Answer:** B) Booting  
+**Explanation:** Booting loads OS into memory for use.
+
+## Module 5: Data Structures (8 MCQs)
+
+**Q31.** Which is a non-linear data structure?  
+A) Array  
+B) Queue  
+C) Tree  
+D) Stack  
+**Answer:** C) Tree  
+**Explanation:** Trees have hierarchical structure; array, queue, stack are linear.
+
+**Q32.** In which traversal is the left subtree visited before the right subtree?  
+A) Inorder  
+B) Postorder  
+C) Preorder  
+D) Any  
+**Answer:** A) Inorder  
+**Explanation:** Inorder: left, root, right.
+
+**Q33.** The maximum number of nodes in a binary tree of height h (starting from 0) is:  
+A) 2h  
+B) 2^h  
+C) 2^(h+1) – 1  
+D) h^2  
+**Answer:** C) 2^(h+1) – 1  
+**Explanation:** Standard maximum node formula for height h tree.
+
+**Q34.** A queue can be efficiently implemented using:  
+A) Array only  
+B) Linked list  
+C) Both A and B  
+D) None  
+**Answer:** C) Both A and B  
+**Explanation:** Both can model FIFO behavior.
+
+**Q35.** Which graph traversal avoids revisiting nodes using “visited” marks?  
+A) BFS  
+B) DFS  
+C) Both  
+D) Neither  
+**Answer:** C) Both  
+**Explanation:** Both BFS and DFS require marking nodes to prevent cycles.
+
+**Q36.** Which data structure is most appropriate for breadth-first search in graphs?  
+A) Stack  
+B) Queue  
+C) Tree  
+D) Heap  
+**Answer:** B) Queue  
+**Explanation:** BFS uses a queue for node visit order.
+
+**Q37.** Which is NOT a stable sorting algorithm?  
+A) Bubble sort  
+B) Selection sort  
+C) Insertion sort  
+D) Merge sort  
+**Answer:** B) Selection sort  
+**Explanation:** Selection sort can change the relative order of equal elements.
+
+**Q38.** The number of edges in a tree with N nodes is:  
+A) N  
+B) N–1  
+C) N+1  
+D) N/2  
+**Answer:** B) N–1  
+**Explanation:** All trees with N nodes have (N–1) edges.
+
+## Module 6: C Programming & OOP (8 MCQs)
+
+**Q39.** Which of the following is NOT a keyword in C?  
+A) auto  
+B) extern  
+C) override  
+D) static  
+**Answer:** C) override  
+**Explanation:** ‘override’ is used in other languages, not standard C.
+
+**Q40.** Which variable is visible to all functions in a C program?  
+A) Local  
+B) Static  
+C) Global  
+D) Register  
+**Answer:** C) Global  
+**Explanation:** Global variables have program-wide scope.
+
+**Q41.** What is the output datatype of sizeof() function in C?  
+A) int  
+B) float  
+C) size_t  
+D) char  
+**Answer:** C) size_t  
+**Explanation:** sizeof returns the result of type size_t.
+
+**Q42.** An operator used to access members of structure variable is:  
+A) .  
+B) ->  
+C) &  
+D) +  
+**Answer:** A) . (dot operator)  
+**Explanation:** Dot operator is for structure variable; arrow is for structure pointer.
+
+**Q43.** What is the default access mode for a file in fopen() if not specified?  
+A) Read  
+B) Write  
+C) Append  
+D) Edit  
+**Answer:** A) Read  
+**Explanation:** ‘r’ (read) is default.
+
+**Q44.** In OOP, hiding internal details and showing only essential information is:  
+A) Inheritance  
+B) Polymorphism  
+C) Abstraction  
+D) Encapsulation  
+**Answer:** C) Abstraction  
+**Explanation:** Abstraction hides complexity.
+
+**Q45.** What is the correct declaration for an array of 10 integers in C?  
+A) int array;  
+B) array int;  
+C) int array;  
+D) array int;  
+**Answer:** A) int array;  
+**Explanation:** This is the syntax.
+
+**Q46.** A constructor in C++ is called automatically when:  
+A) A function is called  
+B) An object is created  
+C) A variable is declared  
+D) Program ends  
+**Answer:** B) An object is created  
+**Explanation:** Constructor runs on instantiation.
+
+## Module 7: DBMS (7 MCQs)
+
+**Q47.** Unique identification of each record in a table is maintained by:  
+A) Foreign key  
+B) Unique key  
+C) Alternate key  
+D) Primary key  
+**Answer:** D) Primary key  
+**Explanation:** Primary key fields are unique, non-null.
+
+**Q48.** Which SQL command is used to remove duplicates in SELECT?  
+A) UNIQUE  
+B) DISTINCT  
+C) REMOVE  
+D) MINUS  
+**Answer:** B) DISTINCT  
+**Explanation:** SELECT DISTINCT removes duplicate values.
+
+**Q49.** What does the 'GROUP BY' clause do in SQL?  
+A) Deletes data  
+B) Arranges data by columns  
+C) Aggregates rows based on one or more columns  
+D) Sorts data  
+**Answer:** C) Aggregates rows based on one or more columns  
+**Explanation:** ‘GROUP BY’ groups rows to use aggregate functions.
+
+**Q50.** Which normal form eliminates multivalued dependencies?  
+A) 1NF  
+B) 2NF  
+C) 4NF  
+D) 3NF  
+**Answer:** C) 4NF  
+**Explanation:** 4NF deals with multi-valued dependency.
+
+**Q51.** SQL command to remove all rows of a table without logging individual row deletions:  
+A) DELETE  
+B) REMOVE  
+C) TRUNCATE  
+D) DROP  
+**Answer:** C) TRUNCATE  
+**Explanation:** TRUNCATE is faster, minimal logging, removes all rows.
+
+**Q52.** E-R model: rectangles represent  
+A) Entities  
+B) Relationships  
+C) Attributes  
+D) Keys  
+**Answer:** A) Entities  
+**Explanation:** Entities, concepts, things are rectangles.
+
+**Q53.** A foreign key in a table:  
+A) Must be primary key in its own table  
+B) Is an attribute in one table that links to primary key in another  
+C) Must always be unique  
+D) Cannot be null  
+**Answer:** B) Is an attribute in one table that links to primary key in another  
+**Explanation:** Foreign keys create links between tables via the primary key of another table.
+
+## Module 8: Networking & Cyber Security (7 MCQs)
+
+**Q54.** The term 'www' refers to:  
+A) File transfer protocol  
+B) World Wide Web  
+C) Wireless wideband  
+D) Windows web workstation  
+**Answer:** B) World Wide Web  
+**Explanation:** Collection of web pages and sites globally connected.
+
+**Q55.** Which device forwards data packets based on IP addresses?  
+A) Switch  
+B) Bridge  
+C) Router  
+D) Hub  
+**Answer:** C) Router  
+**Explanation:** Routers direct data between networks using IP addresses.
+
+**Q56.** Which of these is a secure shell protocol for remote login?  
+A) SSH  
+B) SNMP  
+C) SMTP  
+D) IPX  
+**Answer:** A) SSH  
+**Explanation:** SSH is used for secure, encrypted remote terminal access.
+
+**Q57.** The process of dividing a network into smaller subnets is called:  
+A) Masking  
+B) Bridging  
+C) Subnetting  
+D) Switching  
+**Answer:** C) Subnetting  
+**Explanation:** Subnetting helps in efficient IP address allocation.
+
+**Q58.** A packet sniffer is used for:  
+A) Encrypting traffic  
+B) Capturing and analyzing network traffic  
+C) Wireless transmission  
+D) Cabling  
+**Answer:** B) Capturing and analyzing network traffic  
+**Explanation:** Packet sniffers help monitor data flows, useful for security analysis.
+
+**Q59.** Which wireless protocol is mainly used for short-distance peripheral communication?  
+A) Wi-Fi  
+B) Bluetooth  
+C) Ethernet  
+D) NFC  
+**Answer:** B) Bluetooth  
+**Explanation:** Bluetooth is for short-range connections (keyboards, smartphones, etc.).
+
+**Q60.** Which of these is NOT a malware type?  
+A) Ransomware  
+B) Spyware  
+C) Firewall  
+D) Worm  
+**Answer:** C) Firewall  
+**Explanation:** Firewall is a security device/software, not malware.
+

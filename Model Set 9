@@ -1,511 +1,499 @@
-new model set 9 not repeating above 60mcq answer with explanation in details 60 must question strictly here
 
-Certainly! Below is **SLST Computer Application Model Set 9**, containing **60 entirely new, non-repeating MCQs** (with answers and detailed explanations), strictly following your syllabus and not repeating any questions or answers from Model Sets 1–8 above.
+#  SLST Computer Application – Model Set 9 (60 MCQs with Answers & Explanations) 
 
-You can copy-paste this immediately into MS Word/PDF for personal use or printing.
+##  Module 1: Computer Fundamentals (8 MCQs) 
 
-# **SLST Computer Application – Model Set 9 (60 MCQs with Answers & Explanations)**
-
-## **Module 1: Computer Fundamentals (8 MCQs)**
-
-**Q1.** Which part of the computer stores the operating system while the computer is running?  
+ Q1.  Which part of the computer stores the operating system while the computer is running?  
 A) Hard disk  
 B) ROM  
 C) RAM  
 D) Cache  
-**Answer:** C) RAM  
-**Explanation:** The operating system is loaded into RAM (Random Access Memory) for execution during use; the hard disk stores it permanently.
+ Answer:  C) RAM  
+ Explanation:  The operating system is loaded into RAM (Random Access Memory) for execution during use; the hard disk stores it permanently.
 
-**Q2.** The physical structure that houses the CPU, memory, and essential components is called:  
+ Q2.  The physical structure that houses the CPU, memory, and essential components is called:  
 A) Monitor  
 B) Tower  
 C) Motherboard  
 D) Cabinet  
-**Answer:** D) Cabinet  
-**Explanation:** The cabinet (system unit) is the enclosure for all main internal hardware.
+ Answer:  D) Cabinet  
+ Explanation:  The cabinet (system unit) is the enclosure for all main internal hardware.
 
-**Q3.** What is the main advantage of using Unicode over ASCII?  
+ Q3.  What is the main advantage of using Unicode over ASCII?  
 A) Shorter codes  
 B) Supports only English  
 C) Larger character set for global languages  
 D) Faster processing  
-**Answer:** C) Larger character set for global languages  
-**Explanation:** Unicode can represent characters from many languages and symbols, unlike ASCII which is limited to 128/256 codes.
+ Answer:  C) Larger character set for global languages  
+ Explanation:  Unicode can represent characters from many languages and symbols, unlike ASCII which is limited to 128/256 codes.
 
-**Q4.** The “brain” of the computer is:  
+ Q4.  The “brain” of the computer is:  
 A) RAM  
 B) CPU  
 C) ROM  
 D) ALU  
-**Answer:** B) CPU  
-**Explanation:** The Central Processing Unit carries out instructions and processing.
+ Answer:  B) CPU  
+ Explanation:  The Central Processing Unit carries out instructions and processing.
 
-**Q5.** Which computer generation used artificial intelligence techniques for the first time?  
+ Q5.  Which computer generation used artificial intelligence techniques for the first time?  
 A) First  
 B) Second  
 C) Fourth  
 D) Fifth  
-**Answer:** D) Fifth  
-**Explanation:** Fifth generation computers focus on AI and natural language processing.
+ Answer:  D) Fifth  
+ Explanation:  Fifth generation computers focus on AI and natural language processing.
 
-**Q6.** Boot sequence in most modern PCs can be adjusted from:  
+ Q6.  Boot sequence in most modern PCs can be adjusted from:  
 A) RAM  
 B) BIOS/UEFI settings  
 C) Operating System only  
 D) Monitor settings  
-**Answer:** B) BIOS/UEFI settings  
-**Explanation:** The boot order (sequence) is managed by the system firmware, accessible during startup.
+ Answer:  B) BIOS/UEFI settings  
+ Explanation:  The boot order (sequence) is managed by the system firmware, accessible during startup.
 
-**Q7.** What does the F in “USB-F” typically denote?  
+ Q7.  What does the F in “USB-F” typically denote?  
 A) Flat  
 B) Female  
 C) Fast  
 D) File  
-**Answer:** B) Female  
-**Explanation:** USB connectors are sometimes labeled M (male plug) or F (female socket).
+ Answer:  B) Female  
+ Explanation:  USB connectors are sometimes labeled M (male plug) or F (female socket).
 
-**Q8.** Which is *not* a direct access storage device?  
+ Q8.  Which is *not* a direct access storage device?  
 A) CD-ROM  
 B) Floppy Disk  
 C) Magnetic Tape  
 D) Hard Disk  
-**Answer:** C) Magnetic Tape  
-**Explanation:** Tapes are sequential-access devices; others allow random/direct access.
+ Answer:  C) Magnetic Tape  
+ Explanation:  Tapes are sequential-access devices; others allow random/direct access.
 
-## **Module 2: Computer Arithmetic (7 MCQs)**
+##  Module 2: Computer Arithmetic (7 MCQs) 
 
-**Q9.** The sum of binary numbers 101010 and 11011 is:  
+ Q9.  The sum of binary numbers 101010 and 11011 is:  
 A) 1000001  
 B) 1001001  
 C) 111101  
 D) 111111  
-**Answer:** C) 111101  
-**Explanation:** 101010 (42) + 11011 (27) = 69, which is 1000101, but in binary, 101010 + 11011 = 111101.
+ Answer:  C) 111101  
+ Explanation:  101010 (42) + 11011 (27) = 69, which is 1000101, but in binary, 101010 + 11011 = 111101.
 
-**Q10.** Decimal 100 in hexadecimal is:  
+ Q10.  Decimal 100 in hexadecimal is:  
 A) 64  
 B) 5A  
 C) 32  
 D) 7D  
-**Answer:** A) 64  
-**Explanation:** 6 × 16 + 4 = 96 + 4 = 100.
+ Answer:  A) 64  
+ Explanation:  6 × 16 + 4 = 96 + 4 = 100.
 
-**Q11.** A number is said to have “odd parity” if:  
+ Q11.  A number is said to have “odd parity” if:  
 A) It has an even number of 1s  
 B) It has an odd number of 1s  
 C) Only the last digit is 1  
 D) All 0s  
-**Answer:** B) It has an odd number of 1s  
-**Explanation:** Parity is about error checking; odd parity = odd 1-bits.
+ Answer:  B) It has an odd number of 1s  
+ Explanation:  Parity is about error checking; odd parity = odd 1-bits.
 
-**Q12.** Which is the 1’s complement of the binary number 01101100?  
+ Q12.  Which is the 1’s complement of the binary number 01101100?  
 A) 01101100  
 B) 10010011  
 C) 10010011  
 D) 10010011  
-**Answer:** D) 10010011  
-**Explanation:** Flipping each bit in 01101100 gives 10010011.
+ Answer:  D) 10010011  
+ Explanation:  Flipping each bit in 01101100 gives 10010011.
 
-**Q13.** In BCD, what is the code for decimal digit 7?  
+ Q13.  In BCD, what is the code for decimal digit 7?  
 A) 0111  
 B) 1110  
 C) 1101  
 D) 1001  
-**Answer:** A) 0111  
-**Explanation:** BCD for 7 is 0111.
+ Answer:  A) 0111  
+ Explanation:  BCD for 7 is 0111.
 
-**Q14.** Addition in octal: 13 + 15 (both octal) =  
+ Q14.  Addition in octal: 13 + 15 (both octal) =  
 A) 30  
 B) 28  
 C) 26  
 D) 32  
-**Answer:** C) 26  
-**Explanation:** 13₈ (11) + 15₈ (13) = 24₁₀ → 2 × 8 + 6 = 26₈.
+ Answer:  C) 26  
+ Explanation:  13₈ (11) + 15₈ (13) = 24₁₀ → 2 × 8 + 6 = 26₈.
 
-**Q15.** ASCII code for “space” character is:  
+ Q15.  ASCII code for “space” character is:  
 A) 32  
 B) 48  
 C) 65  
 D) 127  
-**Answer:** A) 32  
-**Explanation:** ASCII decimal 32 is the space character.
+ Answer:  A) 32  
+ Explanation:  ASCII decimal 32 is the space character.
 
-## **Module 3: Digital Logic Fundamentals (8 MCQs)**
+##  Module 3: Digital Logic Fundamentals (8 MCQs) 
 
-**Q16.** Which combinational circuit converts a binary number into its decimal equivalent?  
+ Q16.  Which combinational circuit converts a binary number into its decimal equivalent?  
 A) Decoder  
 B) Encoder  
 C) Multiplexer  
 D) Flip-flop  
-**Answer:** A) Decoder  
-**Explanation:** Decoders convert codes (binary to decimal or other formats).
+ Answer:  A) Decoder  
+ Explanation:  Decoders convert codes (binary to decimal or other formats).
 
-**Q17.** A 3-input AND gate has how many rows in its truth table?  
+ Q17.  A 3-input AND gate has how many rows in its truth table?  
 A) 4  
 B) 6  
 C) 8  
 D) 3  
-**Answer:** C) 8  
-**Explanation:** With n inputs, 2ⁿ rows; 3 inputs = 8 rows.
+ Answer:  C) 8  
+ Explanation:  With n inputs, 2ⁿ rows; 3 inputs = 8 rows.
 
-**Q18.** The smallest flip-flop circuit is known as:  
+ Q18.  The smallest flip-flop circuit is known as:  
 A) RS latch  
 B) D flip-flop  
 C) JK flip-flop  
 D) T flip-flop  
-**Answer:** A) RS latch  
-**Explanation:** The basic storage element is the RS (SR) latch.
+ Answer:  A) RS latch  
+ Explanation:  The basic storage element is the RS (SR) latch.
 
-**Q19.** The main function of a demultiplexer is:  
+ Q19.  The main function of a demultiplexer is:  
 A) Encode data  
 B) Select one output from many  
 C) Distribute input to multiple outputs  
 D) Add numbers  
-**Answer:** C) Distribute input to multiple outputs  
-**Explanation:** Demultiplexer takes one input and routes it to one of several outputs.
+ Answer:  C) Distribute input to multiple outputs  
+ Explanation:  Demultiplexer takes one input and routes it to one of several outputs.
 
-**Q20.** Even parity generator requires which gate?  
+ Q20.  Even parity generator requires which gate?  
 A) AND  
 B) XOR  
 C) NAND  
 D) NOR  
-**Answer:** B) XOR  
-**Explanation:** XOR gates can be used to generate even parity.
+ Answer:  B) XOR  
+ Explanation:  XOR gates can be used to generate even parity.
 
-**Q21.** A ring counter is a:  
+ Q21.  A ring counter is a:  
 A) Synchronous counter  
 B) Asynchronous counter  
 C) Serial register  
 D) Sequence generator  
-**Answer:** D) Sequence generator  
-**Explanation:** Ring counters are used for sequence generation in digital systems.
+ Answer:  D) Sequence generator  
+ Explanation:  Ring counters are used for sequence generation in digital systems.
 
-**Q22.** Master-slave flip-flops are used to:  
+ Q22.  Master-slave flip-flops are used to:  
 A) Store bytes  
 B) Avoid race conditions  
 C) Create shift registers  
 D) Build decoders  
-**Answer:** B) Avoid race conditions  
-**Explanation:** The master-slave configuration helps prevent timing issues (race).
+ Answer:  B) Avoid race conditions  
+ Explanation:  The master-slave configuration helps prevent timing issues (race).
 
-**Q23.** How many full-adders are needed for a 4-bit binary adder?  
+ Q23.  How many full-adders are needed for a 4-bit binary adder?  
 A) 2  
 B) 3  
 C) 4  
 D) 5  
-**Answer:** C) 4  
-**Explanation:** One for each bit position: 4 bits, 4 full-adders.
+ Answer:  C) 4  
+ Explanation:  One for each bit position: 4 bits, 4 full-adders.
 
-## **Module 4: Operating System Concepts (7 MCQs)**
+##  Module 4: Operating System Concepts (7 MCQs) 
 
-**Q24.** The swapping technique in OS is mainly used to:  
+ Q24.  The swapping technique in OS is mainly used to:  
 A) Back up files  
 B) Transfer processes between memory and disk  
 C) Format drives  
 D) Encrypt data  
-**Answer:** B) Transfer processes between memory and disk  
-**Explanation:** Swapping moves processes in/out of RAM to manage memory resources.
+ Answer:  B) Transfer processes between memory and disk  
+ Explanation:  Swapping moves processes in/out of RAM to manage memory resources.
 
-**Q25.** Which part of OS is responsible for file management?  
+ Q25.  Which part of OS is responsible for file management?  
 A) Kernel  
 B) File system  
 C) Scheduler  
 D) Translator  
-**Answer:** B) File system  
-**Explanation:** File system manages the organization/storage of data on disks.
+ Answer:  B) File system  
+ Explanation:  File system manages the organization/storage of data on disks.
 
-**Q26.** Which command is used to terminate a process in Unix?  
+ Q26.  Which command is used to terminate a process in Unix?  
 A) kill  
 B) break  
 C) quit  
 D) end  
-**Answer:** A) kill  
-**Explanation:** The ‘kill’ command sends signals like SIGTERM/SIGKILL to terminate processes.
+ Answer:  A) kill  
+ Explanation:  The ‘kill’ command sends signals like SIGTERM/SIGKILL to terminate processes.
 
-**Q27.** What describes an interrupt in OS context?  
+ Q27.  What describes an interrupt in OS context?  
 A) Program runs continuously  
 B) Forceful shut down  
 C) Signal that temporarily halts CPU to attend urgent task  
 D) Memory error  
-**Answer:** C) Signal that temporarily halts CPU to attend urgent task  
-**Explanation:** Interrupts are essential for responsive multi-tasking.
+ Answer:  C) Signal that temporarily halts CPU to attend urgent task  
+ Explanation:  Interrupts are essential for responsive multi-tasking.
 
-**Q28.** The command ‘pwd’ in Unix stands for:  
+ Q28.  The command ‘pwd’ in Unix stands for:  
 A) Print working directory  
 B) Power down  
 C) Password reset  
 D) Pathwise delete  
-**Answer:** A) Print working directory  
-**Explanation:** Shows current directory in Unix/Linux.
+ Answer:  A) Print working directory  
+ Explanation:  Shows current directory in Unix/Linux.
 
-**Q29.** Which is a system resource?  
+ Q29.  Which is a system resource?  
 A) Document file  
 B) Keyboard  
 C) Process  
 D) All of the above  
-**Answer:** D) All of the above  
-**Explanation:** System resources include physical components (I/O devices) and software entities (processes, files).
+ Answer:  D) All of the above  
+ Explanation:  System resources include physical components (I/O devices) and software entities (processes, files).
 
-**Q30.** Which type of operating system executes tasks as and when they arrive, with no scheduling or queue?  
+ Q30.  Which type of operating system executes tasks as and when they arrive, with no scheduling or queue?  
 A) Batch  
 B) Real-time  
 C) Simple/dedicated  
 D) Time-sharing  
-**Answer:** C) Simple/dedicated  
-**Explanation:** Simple OS deals tasks as received, no complex scheduling.
+ Answer:  C) Simple/dedicated  
+ Explanation:  Simple OS deals tasks as received, no complex scheduling.
 
-## **Module 5: Data Structures (8 MCQs)**
+##  Module 5: Data Structures (8 MCQs) 
 
-**Q31.** The logical and mathematical model of a data structure is called:  
+ Q31.  The logical and mathematical model of a data structure is called:  
 A) Data structure  
 B) Implementation  
 C) Abstract Data Type (ADT)  
 D) Algorithm  
-**Answer:** C) Abstract Data Type (ADT)  
-**Explanation:** ADT defines data and operations, not their implementations.
+ Answer:  C) Abstract Data Type (ADT)  
+ Explanation:  ADT defines data and operations, not their implementations.
 
-**Q32.** Which structure allows elements to be added at one end and removed at another?  
+ Q32.  Which structure allows elements to be added at one end and removed at another?  
 A) Stack  
 B) Queue  
 C) Heap  
 D) Tree  
-**Answer:** B) Queue  
-**Explanation:** FIFO: enqueue at back, dequeue at front.
+ Answer:  B) Queue  
+ Explanation:  FIFO: enqueue at back, dequeue at front.
 
-**Q33.** Which structure is best for recursive function call storage?  
+ Q33.  Which structure is best for recursive function call storage?  
 A) Array  
 B) Stack  
 C) Queue  
 D) Hash Table  
-**Answer:** B) Stack  
-**Explanation:** System stack holds function call states.
+ Answer:  B) Stack  
+ Explanation:  System stack holds function call states.
 
-**Q34.** Height of a tree is the:  
+ Q34.  Height of a tree is the:  
 A) Number of nodes  
 B) Number of children per node  
 C) Number of edges from root to deepest leaf  
 D) Number of leaves  
-**Answer:** C) Number of edges from root to deepest leaf  
-**Explanation:** Height is measured as the longest path from root down.
+ Answer:  C) Number of edges from root to deepest leaf  
+ Explanation:  Height is measured as the longest path from root down.
 
-**Q35.** A graph with V vertices and E edges is connected if:  
+ Q35.  A graph with V vertices and E edges is connected if:  
 A) Each pair of vertices has a path  
 B) V > E  
 C) E = V^2  
 D) The graph is acyclic  
-**Answer:** A) Each pair of vertices has a path  
-**Explanation:** Connectivity is path-based.
+ Answer:  A) Each pair of vertices has a path  
+ Explanation:  Connectivity is path-based.
 
-**Q36.** The in-order successor of a node in BST is:  
+ Q36.  The in-order successor of a node in BST is:  
 A) Largest node in left subtree  
 B) Smallest node in right subtree  
 C) Parent node  
 D) Sibling node  
-**Answer:** B) Smallest node in right subtree  
-**Explanation:** For in-order traversal.
+ Answer:  B) Smallest node in right subtree  
+ Explanation:  For in-order traversal.
 
-**Q37.** Hash tables handle collisions using:  
+ Q37.  Hash tables handle collisions using:  
 A) Mirroring  
 B) Chaining  
 C) Rotation  
 D) Overflows  
-**Answer:** B) Chaining  
-**Explanation:** Collisions lead to linked lists “chains” at each slot.
+ Answer:  B) Chaining  
+ Explanation:  Collisions lead to linked lists “chains” at each slot.
 
-**Q38.** Which algorithm is NOT comparison-based?  
+ Q38.  Which algorithm is NOT comparison-based?  
 A) Counting Sort  
 B) Quick Sort  
 C) Merge Sort  
 D) Insertion Sort  
-**Answer:** A) Counting Sort  
-**Explanation:** Counting sort is based on counting frequency, not comparing elements.
+ Answer:  A) Counting Sort  
+ Explanation:  Counting sort is based on counting frequency, not comparing elements.
 
-## **Module 6: Programming in C & OOP (8 MCQs)**
+##  Module 6: Programming in C & OOP (8 MCQs) 
 
-**Q39.** What does the 'continue' statement do in a loop?  
+ Q39.  What does the 'continue' statement do in a loop?  
 A) Ends the loop  
 B) Skips to next iteration  
 C) Returns from function  
 D) Pauses execution  
-**Answer:** B) Skips to next iteration  
-**Explanation:** continue moves control to the loop’s next iteration.
+ Answer:  B) Skips to next iteration  
+ Explanation:  continue moves control to the loop’s next iteration.
 
-**Q40.** The value returned by the main() function to OS upon successful completion is:  
+ Q40.  The value returned by the main() function to OS upon successful completion is:  
 A) -1  
 B) 0  
 C) 1  
 D) 100  
-**Answer:** B) 0  
-**Explanation:** 0 conventionally means success.
+ Answer:  B) 0  
+ Explanation:  0 conventionally means success.
 
-**Q41.** In C, the following is a valid function prototype:  
+ Q41.  In C, the following is a valid function prototype:  
 A) int func(int, float);  
 B) main() int  
 C) int func;  
 D) float();  
-**Answer:** A) int func(int, float);  
-**Explanation:** Function name, return type and parameter types are included: correct syntax.
+ Answer:  A) int func(int, float);  
+ Explanation:  Function name, return type and parameter types are included: correct syntax.
 
-**Q42.** Which feature of OOP binds together data and methods?  
+ Q42.  Which feature of OOP binds together data and methods?  
 A) Polymorphism  
 B) Encapsulation  
 C) Overloading  
 D) Inheritance  
-**Answer:** B) Encapsulation  
-**Explanation:** Encapsulation “packages” methods and their data.
+ Answer:  B) Encapsulation  
+ Explanation:  Encapsulation “packages” methods and their data.
 
-**Q43.** Which is NOT a valid identifier in C?  
+ Q43.  Which is NOT a valid identifier in C?  
 A) _count  
 B) count_1  
 C) 2ndvalue  
 D) sample  
-**Answer:** C) 2ndvalue  
-**Explanation:** Identifiers can’t start with a digit.
+ Answer:  C) 2ndvalue  
+ Explanation:  Identifiers can’t start with a digit.
 
-**Q44.** Which of these is an access specifier in C++?  
+ Q44.  Which of these is an access specifier in C++?  
 A) hidden  
 B) public  
 C) dynamic  
 D) virtual  
-**Answer:** B) public  
-**Explanation:** Access specifiers include public, private, protected.
+ Answer:  B) public  
+ Explanation:  Access specifiers include public, private, protected.
 
-**Q45.** Which C statement allocates memory that must later be released with free()?  
+ Q45.  Which C statement allocates memory that must later be released with free()?  
 A) alloc()  
 B) new  
 C) malloc()  
 D) access()  
-**Answer:** C) malloc()  
-**Explanation:** malloc allocates heap memory, freed with free().
+ Answer:  C) malloc()  
+ Explanation:  malloc allocates heap memory, freed with free().
 
-**Q46.** Virtual functions implement which OOP property?  
+ Q46.  Virtual functions implement which OOP property?  
 A) Inheritance  
 B) Polymorphism  
 C) Encapsulation  
 D) Abstraction  
-**Answer:** B) Polymorphism  
-**Explanation:** They permit dynamic method dispatch.
+ Answer:  B) Polymorphism  
+ Explanation:  They permit dynamic method dispatch.
 
-## **Module 7: DBMS (7 MCQs)**
+##  Module 7: DBMS (7 MCQs) 
 
-**Q47.** A set of related records in a database is a:  
+ Q47.  A set of related records in a database is a:  
 A) Field  
 B) File/Table  
 C) Character  
 D) Schema  
-**Answer:** B) File/Table  
-**Explanation:** Tables store records; fields make up rows.
+ Answer:  B) File/Table  
+ Explanation:  Tables store records; fields make up rows.
 
-**Q48.** Which command adds a new row in SQL?  
+ Q48.  Which command adds a new row in SQL?  
 A) UPDATE  
 B) INSERT  
 C) ALTER  
 D) APPEND  
-**Answer:** B) INSERT  
-**Explanation:** INSERT is used to insert new data into tables.
+ Answer:  B) INSERT  
+ Explanation:  INSERT is used to insert new data into tables.
 
-**Q49.** A candidate key which is not a primary key is called:  
+ Q49.  A candidate key which is not a primary key is called:  
 A) Alternate key  
 B) Foreign key  
 C) Composite key  
 D) Secondary key  
-**Answer:** A) Alternate key  
-**Explanation:** Any candidate key not used as primary is alternate.
+ Answer:  A) Alternate key  
+ Explanation:  Any candidate key not used as primary is alternate.
 
-**Q50.** What is the purpose of normalization?  
+ Q50.  What is the purpose of normalization?  
 A) Data duplication  
 B) Data integrity and minimal redundancy  
 C) Data destruction  
 D) Query optimization  
-**Answer:** B) Data integrity and minimal redundancy  
-**Explanation:** Normalization ensures efficient storage and prevents anomalies.
+ Answer:  B) Data integrity and minimal redundancy  
+ Explanation:  Normalization ensures efficient storage and prevents anomalies.
 
-**Q51.** The SQL command to display the structure of a table is:  
+ Q51.  The SQL command to display the structure of a table is:  
 A) SHOW TABLE  
 B) DESCRIBE  
 C) STRUCT  
 D) PRINT  
-**Answer:** B) DESCRIBE  
-**Explanation:** DESCRIBE tablename or DESC tablename (SQL).
+ Answer:  B) DESCRIBE  
+ Explanation:  DESCRIBE tablename or DESC tablename (SQL).
 
-**Q52.** Which is a constraint that ensures a unique value in each row?  
+ Q52.  Which is a constraint that ensures a unique value in each row?  
 A) FOREIGN KEY  
 B) UNIQUE  
 C) INDEX  
 D) VIEW  
-**Answer:** B) UNIQUE  
-**Explanation:** UNIQUE ensures all values are different.
+ Answer:  B) UNIQUE  
+ Explanation:  UNIQUE ensures all values are different.
 
-**Q53.** Which level of DBMS abstraction describes what data is stored and relationships?  
+ Q53.  Which level of DBMS abstraction describes what data is stored and relationships?  
 A) Physical  
 B) Logical (Conceptual)  
 C) View  
 D) Storage  
-**Answer:** B) Logical (Conceptual)  
-**Explanation:** This level defines data structure and relationships.
+ Answer:  B) Logical (Conceptual)  
+ Explanation:  This level defines data structure and relationships.
 
-## **Module 8: Computer Networks & Cyber Security (7 MCQs)**
+##  Module 8: Computer Networks & Cyber Security (7 MCQs) 
 
-**Q54.** The main protocol for VoIP (Voice over IP) calls is:  
+ Q54.  The main protocol for VoIP (Voice over IP) calls is:  
 A) HTTP  
 B) FTP  
 C) SIP  
 D) SMTP  
-**Answer:** C) SIP  
-**Explanation:** Session Initiation Protocol establishes and manages VoIP calls.
+ Answer:  C) SIP  
+ Explanation:  Session Initiation Protocol establishes and manages VoIP calls.
 
-**Q55.** Which kind of device connects wireless clients to Ethernet LANs?  
+ Q55.  Which kind of device connects wireless clients to Ethernet LANs?  
 A) Bridge  
 B) Access Point  
 C) Switch  
 D) Repeater  
-**Answer:** B) Access Point  
-**Explanation:** AP’s let wireless devices join wired networks.
+ Answer:  B) Access Point  
+ Explanation:  AP’s let wireless devices join wired networks.
 
-**Q56.** A network topology where every device is connected to every other device:  
+ Q56.  A network topology where every device is connected to every other device:  
 A) Star  
 B) Bus  
 C) Ring  
 D) Mesh  
-**Answer:** D) Mesh  
-**Explanation:** Full mesh topology provides every-to-every connectivity.
+ Answer:  D) Mesh  
+ Explanation:  Full mesh topology provides every-to-every connectivity.
 
-**Q57.** The device that works on both physical and data link layers is:  
+ Q57.  The device that works on both physical and data link layers is:  
 A) Hub  
 B) Switch  
 C) Router  
 D) Gateway  
-**Answer:** B) Switch  
-**Explanation:** Switches operate at L2 (Data Link) but can handle L1 (Physical) activities as well.
+ Answer:  B) Switch  
+ Explanation:  Switches operate at L2 (Data Link) but can handle L1 (Physical) activities as well.
 
-**Q58.** The term ‘firewall’ in networking means:  
+ Q58.  The term ‘firewall’ in networking means:  
 A) Cooling device  
 B) Security system filtering traffic  
 C) Storage center  
 D) Input interface  
-**Answer:** B) Security system filtering traffic  
-**Explanation:** Firewalls prevent unauthorized data access.
+ Answer:  B) Security system filtering traffic  
+ Explanation:  Firewalls prevent unauthorized data access.
 
-**Q59.** Which is a way to secure Wi-Fi networks?  
+ Q59.  Which is a way to secure Wi-Fi networks?  
 A) Using WEP/WPA encryption  
 B) Using a repeater  
 C) Disabling RAM  
 D) Using FTP protocol  
-**Answer:** A) Using WEP/WPA encryption  
-**Explanation:** Encryption stops outsiders from accessing private Wi-Fi.
+ Answer:  A) Using WEP/WPA encryption  
+ Explanation:  Encryption stops outsiders from accessing private Wi-Fi.
 
-**Q60.** The process of disguising communication as coming from a trusted source is called:  
+ Q60.  The process of disguising communication as coming from a trusted source is called:  
 A) Spoofing  
 B) Spooling  
 C) Sniffing  
 D) Spamming  
-**Answer:** A) Spoofing  
-**Explanation:** Spoofing tricks users by faking source identities.
+ Answer:  A) Spoofing  
+ Explanation:  Spoofing tricks users by faking source identities.
 
-**End of Model Set 9**
-
-If you want future model sets, module-only documents, or combined mega-papers, just let me know!
-
-Citations:
-[1] Screenshot_2025-07-28-14-43-06-159_com.android.chrome.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/81934298/35c20226-7422-4e52-9001-98ce041906e3/Screenshot_2025-07-28-14-43-06-159_com.android.chrome.jpg?AWSAccessKeyId=ASIA2F3EMEYER4QK4WZZ&Signature=ckeCysCmmrV8U5LBRvbbrlWl1rU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIQDxiiy%2FbetrVde6mvzjmP8WaGSIgQka3hJv%2FZ8B%2BYvCbwIgLlBa2fD9Qd6X5Q0uC5vh99PdY1m8z3wdOsw6gGx16IQq%2BgQIlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDLv0sGG4s5Te9t3v0CrOBMcNKCXYx1uDSItViGKvq3xnDVmplSBfbEaKqGWE%2FNyBvX9BiVzakjH3dgc3i2ky18E1vewmaGPnjLDRSBCcUEYfZYos6%2BquEjVVEnnFNQUVUbvhWZSniwRl%2Fx4CaNqIWCGcRX5CRVAe7Jc9OOI2TdOiBdBkJ1GS7OB9bMv%2FjJLOy3b6K87PhHiRJlwq6IWWS5LkDhCPFvlurNIAVz1iuoE9Z%2FW4rK%2FQSxjgtzTtz4hxB8fJsnMOq5A6v5k%2ByKcMJybwNmFDyQ9goIYN8havlHuwavae%2BtXZskhiNrgQY1iUoBt8XgcIqG4nw5s8BvYsX7jl82IxVnHasGPYtvX1Y9nkf3Dax6pDTd%2BgWwGrH3BoxWFR9CJ8e9dwzqqnLjvz%2FcUteLjpbCiWbbVR%2Fqftu9jMMCYqtrJTNyZdB1vSZSnuMcmITc%2FvTgPvDl7Edehduyn9CUn9lkCYiq%2FvllE1s2dSUPuqekVLKHh3F%2BB%2Fmwxd52gT8Sbk9PlBJsLescaxsHD9z4%2Bh1hRLX7fcy5A5z5gtjyqGWcP97NyIA75yTcyievbsLJpGAcc0tX%2Fr%2Bd9%2FTXz7DN%2BBMC6Ux%2F51LOVl%2BI6PVaR%2Fqd%2Bs2NiFdGtCL7yrj4OqlrNSK8BaHBu1H%2BRU%2FQNleh7BVKqP5eV990ZoYAZx%2BmlSKl1eWnu1pvnxv7AMYHb79JidKzBKQ18FYf8e4WDeSkK2MIKsfX48YiiAqLESiLixq%2BQvikSjzRWFgjIR36xs94WUOuN%2B3AOHAeu3J6X9mrBRTaq75isdU9OFMJqKn8QGOpoBMpah4FOZyA%2F9fN3nB4wGTEPKMCP6qfjw7NzQaQJPgl8ddjyJrZfNS0tm2%2BuXCD1lTxWt%2Frb%2F92zMZPRbXAcS%2FsacFj5KOxAt9q%2F8wVuknpIedjHXN3gyUtZRRpa1x0vHOKnw6eRPLkKnm85Mc4OlaaZdQMAE42bp6nlIWrzemss8F4EfQMvFg3y57Ws9XHA0Px4BTf8etWzS5A%3D%3D&Expires=1753729134
- 
